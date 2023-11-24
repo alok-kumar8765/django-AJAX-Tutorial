@@ -1,1 +1,3 @@
-# django-AJAX-Tutorial
+# DjangoAjax
+This is DJango Ajax CRUD Application
+
